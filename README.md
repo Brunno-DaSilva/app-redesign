@@ -47,22 +47,31 @@ However, in order to modernize the code base, this was the perfect opportunity t
 
 ## Results Before and After 🤩
 
+### Mascot
+
+<img src="./LAMPIO.png" alt="Mascot" width="100PX">
+
 ### Login page
 
-![Login page](image-2.png)
-
-![Login page](image-5.png)
+<img src="./image-2.png" alt="Login page" width="500PX">
+<img src="./image-5.png" alt="Login page new" width="500PX">
 
 ### Loading state
 
-![Loading state](image-4.png)
-
-![loading state](image-3.png)
+<img src="./image-4.png" alt="Loading state" width="500PX">
+<img src="./image-3.png" alt="Loading state new" width="500PX">
 
 ### Dash Board
 
-![App DashBoard - Old](image.png)
+<img src="./image.png" alt="Dash Board" width="500PX">
+<img src="./image-1.png" alt="Dash Board new" width="500PX">
 
-![App DashBoard - New](image-1.png)
+## Customer Support
+
+<img src="./image-6.png" alt="Customer Support" width="500PX">
+
+<img src="./image-7.png" alt="Customer Support new" width="500PX">
+
+---
 
 <p>Please note that the intention of this article is to show case my work, The data displayed is dummy data</p>
